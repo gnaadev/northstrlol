@@ -11,6 +11,8 @@ It is suspected by our members that Mister Adam is attempting to actively harm h
 
 [000c000o000nn000ec00to000r.php](https://github.com/gnaadev/northstrlol/blob/main/api/000c000o000nn000ec00to000r.php) - Self explanatory
 
+[db.sql](https://github.com/gnaadev/northstrlol/blob/main/db.sql) - Also self explanatory
+
 ### Credits:
 Fellow GNAA shareholders and other members.
 
